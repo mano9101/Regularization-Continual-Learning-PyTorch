@@ -98,8 +98,3 @@ Notes
 - If you want, I can add CI (GitHub Actions) for tests and linting, and a more
 	complete example notebook demonstrating an experiment run.
 
-License
--------
-
-Specify your preferred license here (for example, MIT). If you do not provide
-one, the repository remains "All rights reserved" by default.

